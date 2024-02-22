@@ -1,0 +1,171 @@
+body {
+    position: relative; 
+}
+.navPrinc{
+    background-image: url(https://themewagon.github.io/watch-2/v1.0.0/assets/img/gallery/header-bg.png);
+    height: 800px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: large;
+     color: white;
+  
+  
+   
+}
+.nav{
+    display:flex;
+    align-items:center;
+    justify-content: space-evenly ;
+    padding-left:10px ;
+    background-color: grey transparent;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+  
+   
+
+}
+#tel{
+    padding: 25px;
+
+}
+.nav a{ 
+  color:white;
+  
+    padding-left:30px;
+    font-style:initial;
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+  
+   
+}
+header {
+    margin-top: 200px;
+    padding: 50px;
+    
+    
+}
+.custom{
+    font-size:xx-large;
+    font-weight:bolder;
+    
+}
+.btn1{
+    background-color:transparent;
+  /*  color:rgb(243, 187, 245);*/
+    border:solid 1px rgb(243, 187, 245);
+    padding-left:20px;
+    padding-right: 20px;
+    padding:10px 20px 10px 20px;
+    margin-left: 20px;
+    font-size: large;
+}
+.btn1:hover{
+ color: white;
+ background-color: rgb(243, 187, 245);
+}
+
+.ourStore{
+    background-color:black;
+    display:flex;
+    justify-content: space-between;
+    color: blanchedalmond;
+    align-items:  center;
+    
+}
+
+
+.slide1{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.slide2{
+    background-color: black;
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.slide3{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+h1{
+    font-size: large;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+}
+.card{
+    background-color: transparent;
+    border-color: rgb(250, 252, 252);
+    border-style: solid;
+    border-width: 5px;
+    padding:50px;
+}
+.our-collection{
+    width: 100%;
+    background-color: rgb(10, 10, 10);
+    color: white;
+    display:flex;
+    justify-content: flex-start;
+}
+.brand1{
+
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: black;
+    
+}
+.brandBody{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:grey;
+
+}
+.slide-1{
+    background-color: black;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    padding:100px;
+    font: bold;
+    color: antiquewhite;
+ 
+    
+   
+}
+.testiminial{
+    background-color: black;
+}
+/************************************/
+ .lastPart h1 {
+
+    color :white;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+#button-addon2{
+    background-color: darksalmon;
+    font-size:large;
+    font-weight: bold;
+    color: antiquewhite;
+    padding:3px 10px 3px 10px ;
+}
+.lastPart{
+    padding-top:100px;
+    
+    background-color: black;
+    display:flex;
+    align-items:flex-start;
+    justify-content: space-around;
+}
